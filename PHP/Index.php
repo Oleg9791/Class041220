@@ -10,8 +10,8 @@
 <body>
     <!-- <?php echo 5 * 3 ?> -->
     <!-- <?php echo 2 ** 5 * (5 - 4) + 89 ** 5 ?> -->
-    <?php echo (5*7)/(2-4)**5
-
+    <?php echo (5*7)/(2-4)**5*(-567)/20-30-1.0078125?> <br>
+    <?php echo 'Hello Word!'?>
 </body>
 
 </html>
