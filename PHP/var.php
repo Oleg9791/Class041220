@@ -12,8 +12,11 @@
     $a = 7;
     $b = 3;
     $c = $a - $b;
+    echo $c;
     echo "<br>\n";
     $c = $a + $b;
+    echo $c;
+    echo "<br>\n";
     echo $a * $b;
     echo "<br>\n";
     echo $a / $b;
