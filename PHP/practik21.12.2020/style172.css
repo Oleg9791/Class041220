@@ -1,0 +1,57 @@
+.headline {
+    background-image: url(depositphotos.jpg);
+    background-size: 50%;
+    height: 500px;
+}
+.meny a {
+    margin-left: 200px;
+    margin-top: 10px;
+    padding: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30pt;
+    text-shadow: 2px 1px 3px #000;
+    font-weight: bolder;
+    color:#d5eaf3;
+    
+}
+.button a {
+    margin-left: 700px;
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30pt;
+    text-shadow: 2px 1px 3px #000;
+    font-weight: bolder;
+    color:#e92b24;
+
+
+}
+.button a:hover {
+    font-size: 60pt;
+    text-shadow: 2px 1px 3px #000;
+    font-weight: bolder;
+    color:#e92b24;
+
+
+}
+h1 {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50pt;
+    color: blue;
+}
+
+p {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20pt;
+    font-style: italic;
+}
+.submit {
+    display: inline-block;
+    color: red;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 1em 3em;
+    border: 2px solid;
+    border-radius: 1px;
+   
+  } 
